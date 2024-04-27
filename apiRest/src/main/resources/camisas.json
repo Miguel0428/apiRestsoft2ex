@@ -1,0 +1,25 @@
+[
+
+   {
+
+    "id":1,
+    "name":"barcelona",
+    "value":30.000
+
+   },
+   {
+
+    "id":2,
+    "name":"real madrid",
+    "value":32.000
+
+   },
+   {
+
+      "id":3,
+      "name":"Arsenal",
+      "value":31.000
+  
+     }
+
+]
